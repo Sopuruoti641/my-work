@@ -1,0 +1,61 @@
+.content {
+  background-color: black;
+  color: white;
+  font-family: Arial;
+  max-width: fit-content;
+}
+
+.body-text {
+  font-size: 50px;
+  position: relative;
+  left: 481px;
+}
+
+.body-moves {
+  position: relative;
+  left: 375px;
+}
+.js-score {
+  position: relative;
+  left: 555px;
+  margin: 50px -1px 25px;
+  font-size: 30px;
+}
+
+.js-result {
+  position: relative;
+  left: 593px;
+  font-size: 70px;
+}
+
+.js-moves {
+  position: relative;
+  left: 447px;
+  font-size: 50px;
+}
+
+.reset-button {
+  position: relative;
+  left: 651px;
+  border: transparent;
+  font-size: 25px;
+  background: red;
+  color: white;
+  border-radius: 6px;
+  height: 50px;
+}
+
+.button-img {
+  width: 200px;
+  position: relative;
+  padding: 10px 5px 5px;
+}
+
+.body-buttons {
+  border-radius: 50%;
+  background-color: white;
+}
+
+.move-icon {
+  width: 120px;
+}
