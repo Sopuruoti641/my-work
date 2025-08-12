@@ -18,5 +18,4 @@ CSS:
 HTML:
 🖼 Simple structure to hold the game, score, and images
 
-🔗 Play the game here: Rock-Paper-Scissors
->>>>>>> 090b5abdea64d424e6f71b7a16b39144d643c016
+🔗 Play the game here: https://sopuruoti641.github.io/rps-game/
